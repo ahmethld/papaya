@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /yonetim
+Disallow: /sepet
+Disallow: /hesabim
+Disallow: /tesekkurler
+Disallow: /bildirimler
+
+Sitemap: https://www.siteadresiniz.com/sitemap.xml

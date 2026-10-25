@@ -1,0 +1,20 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000
+/og-image.png
+  Cache-Control: public, max-age=604800
+/favicon.svg
+  Cache-Control: public, max-age=604800
+/yonetim
+  X-Robots-Tag: noindex, nofollow
+/sepet
+  X-Robots-Tag: noindex, nofollow
+/hesabim
+  X-Robots-Tag: noindex, nofollow
+/tesekkurler
+  X-Robots-Tag: noindex, nofollow
+/bildirimler
+  X-Robots-Tag: noindex, nofollow
